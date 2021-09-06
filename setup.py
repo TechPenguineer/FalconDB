@@ -8,8 +8,8 @@ with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     long_description = "\n" + fh.read()
 
 VERSION = '0.0.1'
-DESCRIPTION = 'A simple python OpenGL library'
-LONG_DESCRIPTION = 'Create 2d or 3d graphics with pyogl'
+DESCRIPTION = 'Use a database in python'
+LONG_DESCRIPTION = 'An advanced python database'
 
 # Setting up
 setup(

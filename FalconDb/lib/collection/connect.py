@@ -1,0 +1,3 @@
+class Collection:
+    def ConnectCollection(collection_name):
+        ...
